@@ -9,6 +9,7 @@ A collection of awesome open source Rust Bitcoin projects, libraries and package
 * [Revault](https://revault.dev/) - A superior custody solution for institutions holding bitcoin.
 * [Fedimint](https://fedimint.org/) - Federated Mint Prototype.
 * [LNP/BP](https://www.lnp-bp.org/) - Non-profit supervising layer 2 & 3 protocols on Bitcoin & Lightning Network.
+* [BRAIINS](https://braiins.com/) - Optimize Your Mining Operations: Stratum V2
 
 ### Rust Bitcoin Cookbook
 * [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) - Rust Bitcoin library.
