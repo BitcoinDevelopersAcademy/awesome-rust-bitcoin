@@ -21,6 +21,6 @@ A collection of awesome open source Rust Bitcoin projects, libraries and package
 * [Rust Nostr](https://github.com/rajarshimaitra/rust-nostr) - The Stage 2 building block to reach the dream of DSNs with Bitcoin DeFi.
 
 ### Curators
-List created and maintained by: [Fodé Diop](https://github.com/diop)
+List created and maintained by: [Fodé Diop](https://github.com/diop). PRs always welcomed!
 
 © Copyright 2022 [Bitcoin Developers Academy](https://bitcoindevelopers.academy) - MIT License
