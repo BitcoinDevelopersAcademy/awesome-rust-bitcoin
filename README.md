@@ -21,6 +21,7 @@ A collection of awesome open source Rust Bitcoin projects, libraries and package
 * [Rust Nostr](https://github.com/rajarshimaitra/rust-nostr) - The Stage 2 building block to reach the dream of DSNs with Bitcoin DeFi.
 * [BIP 39 Solver](https://github.com/johncantrell97/bip39-solver-cpu) - Brute force BIP-39 Mnemonic using CPU
 * [Validating Lightning Signer](https://gitlab.com/lightning-signer/docs/) Improving Lightning security with fully validated remote signing.
+* [The Eye of Satoshi](https://github.com/talaia-labs/rust-teos) - Lightning Watchtower
 
 ### Tutorials & Walkthroughs
 * [Bitcoin From Scratch](https://monokh.com/posts/bitcoin-from-scratch-part-1) - Bitcoin from scratch with Rust 
